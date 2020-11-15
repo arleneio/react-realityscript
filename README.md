@@ -28,6 +28,10 @@ class Example extends Component {
 
 Remember to use a usdz/reality model file for ios and glb/gltf model for android
 
+## Demo
+
+https://arleneio.github.io/react-realityscript/
+
 ## License
 
 MIT © [jalamprea](https://github.com/arleneio)
