@@ -4,12 +4,15 @@
   "description": "React component for realityscript project",
   "author": "jalamprea",
   "license": "MIT",
-  "repository": "arleneio/reality.js",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
     "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+hhttps://github.com/arleneio/react-realityscript.git"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",

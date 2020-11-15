@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import Reality from '.'
 
-describe('ExampleComponent', () => {
-  it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
-  })
+describe('RealityScript', () => {
+    it('is truthy', () => {
+        expect(Reality).toBeTruthy()
+    })
 })
