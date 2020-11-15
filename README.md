@@ -16,16 +16,17 @@ npm install --save react-realityscript
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-realityscript'
-import 'react-realityscript/dist/index.css'
+import Reality from 'react-realityscript'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Reality model-ios="..." model-android="..." />
   }
 }
 ```
 
+Remember to use a usdz/reality model file for ios and glb/gltf model for android
+
 ## License
 
-MIT © [jalamprea](https://github.com/jalamprea)
+MIT © [jalamprea](https://github.com/arleneio)
