@@ -2,8 +2,9 @@
 
 > React component for realityscript project
 
-[![](https://data.jsdelivr.com/v1/package/gh/arleneio/reality.js/badge)](https://www.jsdelivr.com/package/gh/arleneio/reality.js)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+This project is a React Wrapper component for the realityscript.io project but we are using our forked version with some updates. Check more info in our repo https://github.com/arleneio/reality.js
 
 ## Install
 
