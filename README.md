@@ -23,12 +23,15 @@ import Reality from 'react-realityscript'
 
 class Example extends Component {
   render() {
-    return <Reality model-ios="..." model-android="..." />
+    return <Reality projectId="demo" />
   }
 }
 ```
 
-Remember to use a usdz/reality model file for ios and glb/gltf model for android
+The `projectId` value will belongs to a project ID provided by Arlene.io.
+
+Please contact us to create your 3D/AR Projects
+
 
 ## Demo
 
